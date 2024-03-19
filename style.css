@@ -1,0 +1,59 @@
+#ima{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin: 70px;
+    
+}
+#button{
+    color: blue;
+}
+#ima2{
+    display: flex;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    justify-content: space-between;
+    margin: 70px;
+    
+}
+#Navbar{
+    display: flex;
+    justify-content: space-between;
+    font-size: xx-large;
+}
+#intro{
+background-color: orange;
+padding: 40px 40px;
+}
+#introduction{
+    text-align: center;
+    font-size: xx-large;
+}
+#topic{
+    text-align: center;
+    font-size: xx-large;
+}#image{
+    width: 40px;
+    height: 50px;
+}
+p1{
+    padding-left: 40px;
+}
+
+p2{
+    padding-left: 90px;
+}
+#imag{
+    position: relative;
+    margin-right: 20px;
+    padding: 20px 40px;
+}
+
+
+
+
+
+
